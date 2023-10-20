@@ -1,0 +1,9 @@
+# Output Files
+*.out
+*.com
+*.exe
+*.o
+*.so
+
+# My Output Files
+myout*
